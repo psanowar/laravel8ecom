@@ -1,7 +1,7 @@
     <!-- ########## START: LEFT PANEL ########## -->
-    <div class="br-logo"><a href=""><span>[</span>bracket <i>plus</i><span>]</span></a></div>
+    <div class="br-logo"><a href=""><span>[</span>sanowar <i>hossain</i><span>]</span></a></div>
     <div class="br-sideleft sideleft-scrollbar">
-      <label class="sidebar-label pd-x-10 mg-t-20 op-3">Navigation</label>
+      <label class="sidebar-label pd-x-10 mg-t-20 op-3">nav</label>
       <ul class="br-sideleft-menu">
         <li class="br-menu-item">
           <a href="index.html" class="br-menu-link active">
